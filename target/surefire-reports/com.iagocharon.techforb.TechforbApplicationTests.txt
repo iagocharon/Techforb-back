@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.iagocharon.techforb.TechforbApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.313 s - in com.iagocharon.techforb.TechforbApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.406 s - in com.iagocharon.techforb.TechforbApplicationTests
