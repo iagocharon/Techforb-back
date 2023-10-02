@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-TechforbApplication<Techforb>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.iagocharon.techforb.TechforbApplication",
+      "projectName": "Techforb",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-RoyaleApplication<Royale>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.iagocharon.royale.RoyaleApplication",
+      "projectName": "Royale",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-TechforbApplication<Royale>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.iagocharon.techforb.TechforbApplication",
+      "projectName": "Royale",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
